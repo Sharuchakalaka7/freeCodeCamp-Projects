@@ -1,0 +1,18 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Ahmed Shahriar",
+	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "fun", "coding" ],
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	},
+	"license": "Sharuchakalaka7"
+}
